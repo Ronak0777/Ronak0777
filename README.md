@@ -42,7 +42,7 @@
 </tr>
 </table>
 
-📍 Based in Pune, Maharashtra, India · 📞 +91 9922326877
+📍 Based in Pune, Maharashtra, India ·
 
 ---
 
