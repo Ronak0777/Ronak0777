@@ -150,20 +150,6 @@ Jul '23 — Present
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ronak0777&amp;theme=dark&amp;hide_border=true&amp;show_icons=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Ronak0777&amp;theme=dark&amp;hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronak0777&amp;theme=react-dark&amp;hide_border=true"/>
-</p>
-
----
-
-<div align="center">
 
 ### 💬 Let's Connect and Build Something Amazing!
 
